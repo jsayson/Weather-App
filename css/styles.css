@@ -1,0 +1,25 @@
+html{
+  height: 100%;
+}
+body{
+  background-color: #90CAF9;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0px;
+  background-image: url('https://impalastudios.com/images/background/background-alarm-clock-hd-1509614899-2000x2000.jpg');
+}
+#appT{
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 50px;
+  margin: 3% 3% 10% 3%;
+}
+button{
+  background:linear-gradient(#84FFFF,#18FFFF,#00E5FF,#00B8D4);
+  height: 40px;
+  width: 40%;
+  border: 0px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-weight: bold;
+}
